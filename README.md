@@ -1,8 +1,14 @@
 # Game_Match_Full
 
+<p align="center">
+  <img src="./assets/game_match.gif" alt="Game Match 서비스 화면 미리보기" width="700" />
+</p>
+
 게임 커뮤니티 기능과 친선 경기 매칭 기능을 결합한 풀스택 웹 서비스입니다.
 
 <br/>
+
+<div align="center">
 
 <a href="https://github.com/Siwon-Choi/Game_Match_FE">
   <img src="https://img.shields.io/badge/Frontend-Game_Match_FE-181717?style=for-the-badge&logo=github&logoColor=white" />
